@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\FirstAPI\\ContosoPizza.csproj": {}
+    "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\API_WEB-ASPNET_CORE\\FirstAPI\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\FirstAPI\\ContosoPizza.csproj": {
+    "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\API_WEB-ASPNET_CORE\\FirstAPI\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\FirstAPI\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\API_WEB-ASPNET_CORE\\FirstAPI\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\FirstAPI\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\API_WEB-ASPNET_CORE\\FirstAPI\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\iara.camargos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\FirstAPI\\obj\\",
+        "outputPath": "C:\\Users\\iara.camargos\\Documents\\CURSOS\\Curso Criar Aplicativos .NET com CSharp\\API_WEB-ASPNET_CORE\\FirstAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iara.camargos\\AppData\\Roaming\\NuGet\\NuGet.Config",
